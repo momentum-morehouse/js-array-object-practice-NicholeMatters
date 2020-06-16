@@ -5,3 +5,9 @@
 - When done, check your answers with the link provided.
 - Instead of pasting on the page, as the directions say, please paste the links to your Repl in this README.
 
+
+
+Here is my link: https://repl.it/@NicholeMatters/GlamorousKindlyFibonacci#index.js
+
+
+I did not get 28 and 30
